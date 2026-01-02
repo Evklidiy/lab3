@@ -43,8 +43,7 @@
 
 1.  Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/ВАШ_ЛОГИН/ИМЯ_РЕПОЗИТОРИЯ.git
-    ```
+    git clone https://github.com/Evklidiy/lab3.git
 2.  Откройте проект в Visual Studio 2022.
 3.  Проверьте строку подключения в `appsettings.json` (по умолчанию настроена на LocalDB):
     ```json
